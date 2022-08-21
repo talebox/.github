@@ -1,4 +1,4 @@
-# Talebox (A down to earth life companion box) - Draft-00_2022
+# Talebox - Draft-00_2022
 
 A carefully picked stack of essential technology that's easy to understand, use, modify, and maintain.
 
