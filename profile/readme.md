@@ -21,6 +21,8 @@ Yes that's possible, it's been for a decade now, it's just not ideal for you to 
 
 This is a living document which (currently) only embodies my knowledge. Everyone is encouraged to contribute if you believe any part of it can be improved based on what you know.
 
+This document and all documentation will temporarily live in github, until a service is created to host the public content.
+
 # Goals
 
 1. Portable
