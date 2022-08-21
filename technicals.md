@@ -1,8 +1,8 @@
 # Technicals
 
 ## Hardware
-- Low power: 10W MAX TPU under load. Idle TPU should be a fraction of MAX, 1/10th or so.
-- Portable: should fit in your hand.
+- Low power: 10W MAX under load. Idle should be <1W.
+- Portable: 2x1x1in max size
 - Simple to use/maintain/replace/clone/expand/modify (we'll see what else has to give to meet these).
 
 ### The box
