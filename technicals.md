@@ -1,12 +1,10 @@
-# Technicals
+# Hardware
+1. Small: 2x1x1 in max size.
+2. Low power: 10W MAX under load. Idle should be <1W.
 
 ## Hardware
-- Low power: 10W MAX under load. Idle should be <1W.
-- Portable: 2x1x1in max size
-- Simple to use/maintain/replace/clone/expand/modify (we'll see what else has to give to meet these).
 
-### The box
-
+### Ideas
 Ideally an open architecture like OpenRISC/RISC-V but for now we'll settle for ARM:
 
 **SOC Brand**
@@ -20,9 +18,21 @@ Ideally an open architecture like OpenRISC/RISC-V but for now we'll settle for A
 
 **Boards**
 - [PINE A64-LTS V2](https://pine64.com/product/pine-a64-lts/)
-- 
+- [Beaglebone Green](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010048/5965297)
+- [Rapberry Pi B]()
+
+### Develoment (a subset of [ideas](#ideas) to be implemented)
 
 
-## Software
-- Minimal boot time with an edge compute OS.
+
+---
+
+# Software
+- Minimal boot time with an open source edge compute OS.
 - 
+
+## Server
+- Management Interface
+
+
+

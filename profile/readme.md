@@ -30,7 +30,7 @@ This document and all documentation will temporarily live in github, until a ser
    2. Low power: running as long as daylight is available to a square foot panel.
 2. Simple
    1. To Use: Progressively finer controls depending on consumer skill level.
-   2. Maintain: A [minimal web interface](https://github.com/talebox/.github/blob/master/web_manager.md)
+   2. Maintain: A [minimal web interface](https://github.com/talebox/.github/blob/master/technicals.md#web-management-interface)
    3. Replace/Clone: Optional backups to storage devices, or another box (somewhere else, maybe the cloud).
    4. Expand: Optional aditional expanded storage/processsing (swarm with sharding/parallellism).
    5. Modify: It's yours, if you have physical access to it, you can do as you wish. But data can be optionally encrypted at your discretion.
