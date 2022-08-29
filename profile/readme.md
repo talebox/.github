@@ -25,6 +25,7 @@ This is a living document which (currently) only embodies my knowledge. Everyone
 
 This document and all documentation will temporarily live in github, until a service is created to host the public content.
 
+
 # Goals
 
 1. Portable
@@ -32,10 +33,12 @@ This document and all documentation will temporarily live in github, until a ser
    2. Low power: running as long as daylight is available to a square foot panel.
 2. Simple
    1. To Use: Progressively finer controls depending on consumer skill level.
-   2. Maintain: A [minimal web interface](https://github.com/talebox/.github/blob/master/technicals.md#web-management-interface)
+   2. Maintain: A [minimal web interface](technicals.md#web-management-interface)
    3. Replace/Clone: Optional backups to storage devices, or another box (somewhere else, maybe the cloud).
    4. Expand: Optional aditional expanded storage/processsing (swarm with sharding/parallellism).
    5. Modify: It's yours, if you have physical access to it, you can do as you wish. But data can be optionally encrypted at your discretion.
-3. Useful, a fully-managed, albeit customizable, [offline service ecosystem](https://github.com/talebox/.github/blob/master/services.md).
+3. Useful, a fully-managed, albeit customizable, [offline service ecosystem](services.md).
 
-# Technicals: [Technicals](https://github.com/talebox/.github/blob/master/technicals.md)
+# Immediate Goals: [Minimum Viable Product](mvp.md)
+
+# Technicals: [Technicals](technicals.md)
