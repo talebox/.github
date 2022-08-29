@@ -1,8 +1,10 @@
 # Talebox - Draft-00_2022
 
-A carefully picked stack of essential technology that's easy to understand, use, modify, and maintain.
-
 Don't you just hate when everything is made unecessarily complicated by privatization + increasingly deterministic population control with the advent of big data analitics being used for profits. Me too...
+
+So I present: A carefully picked stack of essential technology that's easy to understand, use, modify, and maintain.
+
+For the nerds out there a shorter description would be: **A Private Cloud OS/Hardware/Management solution**. For which I have googled incessantly but found no easy answers. I'm still actively putting together my findings here.
 
 A **replacement for services which give you inmessurable personal value without selling you in the process**. Services that you count on every day, like idk... a notes/whiteboard app, or perhaps saving family photos, files, projects. Or maybe an open source social media platform, or a git repository.
 

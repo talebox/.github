@@ -19,7 +19,7 @@ Ideally an open architecture like OpenRISC/RISC-V but for now we'll settle for A
 **Boards**
 - [PINE A64-LTS V2](https://pine64.com/product/pine-a64-lts/)
 - [Beaglebone Green](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010048/5965297)
-- [Rapberry Pi B]()
+- [Rapberry Pi 4B]()
 
 ### Develoment (a subset of [ideas](#ideas) to be implemented)
 
@@ -29,7 +29,8 @@ Ideally an open architecture like OpenRISC/RISC-V but for now we'll settle for A
 
 # Software
 - Minimal boot time with an open source edge compute OS.
-- 
+
+We need a swarm of cloud nodes provisioning our public services (ex website/os/online public management) + private user owned boxes
 
 ## Server
 - Management Interface
